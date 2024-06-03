@@ -14,7 +14,7 @@ namespace my_app.Service.Controllers
         }
         [HttpGet]
         [Route("ben")]
-        public IActionResult GetHello()
+        public IActionResult GetHello2()
         {
             return Ok("ALALALALALALALAALAALALALA");
         }
